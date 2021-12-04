@@ -1,0 +1,193 @@
+﻿Entidad Origen,Entidad Destino,Personas,Remesas
+Aguascalientes,Jalisco,26030,539.9
+Aguascalientes,Zacatecas,21691,539.9
+Aguascalientes,Guanajuato,10122,539.9
+Baja California,Sinaloa,29615,1234.9
+Baja California,Sonora,25384,1234.9
+Baja California,Jalisco,19038,1234.9
+Baja California Sur,Baja California,7583,111.6
+Baja California Sur,Sinaloa,5476,111.6
+Baja California Sur,Jalisco,3791,111.6
+Campeche,Jalisco,46535,115.2
+Campeche,Michoacán ,29613,115.2
+Campeche,Baja California,15511,115.2
+Coahuila de Zaragoza,Nuevo León,118406,711.2
+Coahuila de Zaragoza,Durango,57010,711.2
+Coahuila de Zaragoza,Chihuahua,52624,711.2
+Colima,Jalisco,42273,348.2
+Colima,Michoacán ,11425,348.2
+Colima,Baja California,10282,348.2
+Chiapas,Quintana Roo,31128,1142.8
+Chiapas,Baja California,25940,1142.8
+Chiapas,Nuevo León,20752,1142.8
+Chihuahua,Durango,31128,1278.7
+Chihuahua,Coahuila de Zaragoza,25940,1278.7
+Chihuahua,Sonora,20752,1278.7
+Ciudad de México,México,2081281,2141.5
+Ciudad de México,Hidalgo,396434,2141.5
+Ciudad de México,Querétaro,346880,2141.5
+Durango,Chihuahua,97594,955.2
+Durango,Coahuila de Zaragoza,88299,955.2
+Durango,Sinaloa,55768,955.2
+Guanajuato,Queretaro,122854,2415.6
+Guanajuato,Jalisco,71126,2415.6
+Guanajuato,Mexico,58194,2415.6
+Guerrero,Baja California,115977,3468.7
+Guerrero,Morelos,96648,3468.7
+Guerrero,Baja California Sur,96648,3468.7
+Hidalgo,México,157018,1941.9
+Hidalgo,Ciudad de México,78509,1941.9
+Hidalgo,Querétaro,78509,1941.9
+Jalisco,Nayarit,109392,4153.2
+Jalisco,Colima,58903,4153.2
+Jalisco,Michoacán,58903,4153.2
+México,Ciudad de México,389844,4055.7
+México,Hidalgo,201643,4055.7
+México,Querétaro,107543,4055.7
+Michoacán,Jalisco,152606,756.9
+Michoacán,Baja California,114455,756.9
+Michoacán,México,104917,756.9
+Morelos,Ciudad de México,33103,672.8
+Morelos,México,28689,672.8
+Morelos,Guerrero,24275,672.8
+Nayarit,Jalisco,90420,1024.4
+Nayarit,Baja California,43988,1024.4
+Nayarit,Sinaloa,21994,1024.4
+Nuevo León,San Luis Potosí,37610,1897.6
+Nuevo León,Coahuila de Zaragoza,32237,1897.6
+Nuevo León,Tamaulipas,29551,1897.6
+Oaxaca,México,133983,1872.9
+Oaxaca,Ciudad de México,103064,1872.9
+Oaxaca,Baja California,103064,1872.9
+Puebla,México,162030,802.2
+Puebla,Ciudad de México,140426,802.2
+Puebla,Veracruz,118822,802.2
+Querétaro,Guanajuato,52824,239.5
+Querétaro,México,27468,239.5
+Querétaro,Ciudad de México,19016,239.5
+Quintana Roo,Yucatán,30247,1425.2
+Quintana Roo,Chiapas,7117,1425.2
+Quintana Roo,Veracruz,6227,1425.2
+San Luis Potosí,Nuevo León,294301,1039.4
+San Luis Potosí,Tamaulipas,75286,1039.4
+San Luis Potosí,Querétaro,34221,1039.4
+Sinaloa,Baja California,183778,708
+Sinaloa,Sonora,118143,708
+Sinaloa,Jalisco,59071,708
+Sonora,Baja California,74063,279.5
+Sonora,Sinaloa,45577,279.5
+Sonora,Jalisco,19940,279.5
+Tabasco,Quintana Roo,147192,944.6
+Tabasco,Yucatán,49064,944.6
+Tabasco,Nuevo León,40143,944.6
+Tamaulipas,Nuevo León,200238,244.2
+Tamaulipas,Veracruz,84310,244.2
+Tamaulipas,San Luis Potosí,47424,244.2
+Tlaxcala,Puebla,67731,1614.2
+Tlaxcala,México,27515,1614.2
+Tlaxcala,Ciudad de México,23282,1614.2
+Veracruz,Nuevo León,358374,243.7
+Veracruz,Tamaulipas,219006,243.7
+Veracruz,Puebla,159277,243.7
+Yucatán,Quintana Roo,140376,1202.3
+Yucatán,Campeche,27464,1202.3
+Yucatán,Ciudad de México,21361,1202.3
+Zacatecas,Aguascalientes,120913,40604.6
+Zacatecas,Jalisco,70532,40604.6
+Zacatecas,Nuevo León,45342,40604.6
+Zacatecas,Aguascalientes,55286,1202.3
+Jalisco,Aguascalientes,46993,4153.2
+Ciudad de México,Aguascalientes,30407,2141.5
+Sinaloa,Baja California,190313,1039.4
+Chiapas ,Baja California,175673,1142.8
+Guerrero,Baja California,161034,1941.9
+Guerrero,Baja California Sur,84586,1941.9
+Sinaloa,Baja California Sur,31328,1039.4
+México,Baja California Sur,21929,2415.6
+Tabasco,Campeche,47866,279.5
+Veracruz,Campeche,31910,1614.2
+Quintana Roo,Campeche,25927,239.5
+Veracruz,Coahuila de Zaragoza,51819,1614.2
+Nuevo León,Coahuila de Zaragoza,51819,1024.4
+Durango,Coahuila de Zaragoza,47833,955.2
+Jalisco,Colima,67796,4153.2
+Michoacán ,Colima,27118,4055.7
+Guerrero,Colima,19370,1941.9
+Tabasco,Chiapas,20995,279.5
+Quintana Roo,Chiapas,17496,239.5
+México,Chiapas,15746,2415.6
+Veracruz ,Chihuahua,129039,1614.2
+Durango,Chihuahua,72935,955.2
+Coahuila de Zaragoza,Chihuahua,44883,711.2
+México,Ciudad de México,822740,2415.6
+Veracruz ,Ciudad de México,100743,1614.2
+Puebla,Ciudad de México,100743,1872.9
+Coahuila de Zaragoza,Durango,40032,711.2
+Chihuahua,Durango,40032,1278.7
+Sinaloa,Durango,16855,1039.4
+México,Guanajuato,78088,2415.6
+Ciudad de México,Guanajuato,72510,2141.5
+Queretaro,Guanajuato,72510,802.2
+México,Guerrero,33165,2415.6
+Ciudad de México,Guerrero,27313,2141.5
+Morelos,Guerrero,23411,756.9
+México,Hidalgo,274473,2415.6
+Ciudad de México,Hidalgo,152485,2141.5
+Veracruz,Hidalgo,30497,1614.2
+Michoacán ,Jalisco,96100,4055.7
+Ciudad de México,Jalisco,85422,2141.5
+México,Jalisco,85422,2415.6
+Ciudad de México,México,2802903,2141.5
+Veracruz,México,311433,1614.2
+Puebla,México,259528,1872.9
+Guerrero,Michoacán,69297,1941.9
+México,Michoacán,64966,2415.6
+Jalisco,Michoacán,56304,4153.2
+Ciudad de México,Morelos,135187,2141.5
+Guerrero,Morelos,125173,1941.9
+México,Morelos,90124,2415.6
+Jalisco,Nayarit,95989,4153.2
+Baja California,Nayarit,20208,1234.9
+Chiapas,Nayarit,15156,1142.8
+Veracruz,Nuevo León,316791,1614.2
+Tamaulipas,Nuevo León,197994,944.6
+San Luis Potosí,Nuevo León,145196,1425.2
+México,Oaxaca,55680,2415.6
+Ciudad de México,Oaxaca,43958,2141.5
+Veracruz,Oaxaca,41027,1614.2
+Veracruz,Puebla,125574,1614.2
+México,Puebla,118965,2415.6
+Ciudad de México,Puebla,105746,2141.5
+Ciudad de México,Querétaro,144174,2141.5
+México,Querétaro,137309,2415.6
+Guanajuato,Querétaro,61789,3468.7
+Tabasco,Quintana Roo,189020,279.5
+Chiapas ,Quintana Roo,151216,1142.8
+Veracruz,Quintana Roo,141765,1614.2
+Nuevo León,San Luis Potosí,53050,1024.4
+Tamaulipas,San Luis Potosí,41261,944.6
+México,San Luis Potosí,26525,2415.6
+Baja California,Sinaloa,46890,1234.9
+Guerrero,Sinaloa,40638,1941.9
+Sonora,Sinaloa,37512,708
+Sinaloa,Sonora,97958,1039.4
+Baja California,Sonora,59626,1234.9
+Chihuahua,Sonora,29813,1278.7
+Chiapas,Tabasco,48335,1142.8
+Veracruz,Tabasco,37828,1614.2
+Campeche,Tabasco,27320,115.2
+Veracruz,Tamaulipas,328657,1614.2
+Nuevo León,Tamaulipas,76432,1024.4
+San Luis Potosí,Tamaulipas,61145,1425.2
+Puebla,Tlaxcala,67286,1872.9
+México,Tlaxcala,37848,2415.6
+Ciudad de México,Tlaxcala,31540,2141.5
+México,Veracruz,106791,2415.6
+Ciudad de México,Veracruz,91535,2141.5
+Tamaulipas,Veracruz,83907,944.6
+Quintana Roo,Yucatán,67441,239.5
+Campeche,Yucatán,40464,115.2
+Tabasco,Yucatán,32371,279.5
+Jalisco,Zacatecas,31879,4153.2
+Aguascalientes,Zacatecas,19481,539.9
+Durango,Zacatecas,12397,955.2
